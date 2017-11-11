@@ -1,5 +1,6 @@
 //Vector.cpp
 //lab7 Lukas, Will, Zalika, and Malik
+//https://www.youtube.com/watch?v=Lt0OThPkg_E&index=3&list=PLVBorYCcu-xXWDdyWYDr4KrqIjPSm9uAe
 #include<iostream>
 #include<vector>
 

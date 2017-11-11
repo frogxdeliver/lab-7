@@ -1,5 +1,7 @@
 //Deque.cpp
 //lab7 Lukas, Will, Zalika, and Malik
+//Video links:
+//https://www.youtube.com/watch?v=8d2pSUH6BKA&list=PLVBorYCcu-xXWDdyWYDr4KrqIjPSm9uAe&index=4
 #include<iostream>
 #include<deque>
 

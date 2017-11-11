@@ -1,5 +1,6 @@
 //List.cpp
 //lab7 Lukas, Will, Zalika, and Malik
+//https://www.youtube.com/watch?v=Q_y_GdxpKm0&list=PLVBorYCcu-xXWDdyWYDr4KrqIjPSm9uAe&index=5
 #include<iostream>
 #include<list>
 #include<algorithm>
